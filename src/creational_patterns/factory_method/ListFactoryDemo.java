@@ -13,7 +13,7 @@ public class ListFactoryDemo {
         myColorArrayList.add("blue");
 
         System.out.println("My ArrayList of colors contains:");
-        for( String i : myColorArrayList ) {
+        for(String i : myColorArrayList) {
             System.out.print(i + "\n");
         }
 
@@ -27,7 +27,7 @@ public class ListFactoryDemo {
         myNumberLinkedList.add(5);
 
         System.out.println("My LinkedList of numbers contains:");
-        for( int i : myNumberLinkedList ) {
+        for(int i : myNumberLinkedList) {
             System.out.print(i + "\n");
         }
     }
