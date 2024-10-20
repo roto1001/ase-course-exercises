@@ -1,4 +1,4 @@
-package creational_patterns.factory_method;
+package creational_patterns.example_factory_method.shape_container.imp_containers;
 
 import java.awt.Shape;
 import java.awt.Rectangle;

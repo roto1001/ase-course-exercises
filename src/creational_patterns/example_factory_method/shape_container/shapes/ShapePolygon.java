@@ -1,4 +1,6 @@
-package creational_patterns.factory_method;
+package creational_patterns.example_factory_method.shape_container.shapes;
+
+import creational_patterns.example_factory_method.shape_container.ShapeInterface;
 
 import java.awt.*;
 

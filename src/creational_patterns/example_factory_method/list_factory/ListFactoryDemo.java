@@ -1,4 +1,4 @@
-package creational_patterns.factory_method;
+package creational_patterns.example_factory_method.list_factory;
 
 import java.util.List;
 

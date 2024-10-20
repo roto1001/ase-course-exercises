@@ -1,4 +1,8 @@
-package creational_patterns.factory_method;
+package creational_patterns.example_factory_method.shape_container;
+
+import creational_patterns.example_factory_method.shape_container.shapes.ShapeCubicCurve;
+import creational_patterns.example_factory_method.shape_container.shapes.ShapePolygon;
+import creational_patterns.example_factory_method.shape_container.shapes.ShapeRectangle;
 
 import java.util.Optional;
 

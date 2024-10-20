@@ -1,4 +1,6 @@
-package creational_patterns.factory_method;
+package creational_patterns.example_factory_method.shape_container;
+
+import creational_patterns.example_factory_method.shape_container.imp_containers.ShapeContainer1;
 
 public class ShapeContainerDemo {
     public static void main(String[] args) {
