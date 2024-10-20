@@ -2,7 +2,7 @@ package creational_patterns.example_factory_method.list_factory;
 
 import java.util.List;
 
-public class ListFactoryDemo {
+public class Demo {
     public static void main(String[] args) {
         // Create Arraylist implicit call with Factory method and usage
         List<String> myColorArrayList = ListFactory.newArrayList();
